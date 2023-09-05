@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: #1e1a26;
+}
+
+.webgl {
+  position: fixed; /* allow fullscreen w/o overscroll on ios devices */
+  top: 0;
+  left: 0;
+  outline: none; 
+}
+
+
